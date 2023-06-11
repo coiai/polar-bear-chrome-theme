@@ -17,9 +17,7 @@
          "tab_text": [ 255, 255, 255 ],
          "toolbar": [ 255, 255, 255, 0.5 ],
          "toolbar_button_icon": [ 240, 240, 240 ],
-         // 検索ボックスの背景色
          "omnibox_background": [ 119, 179, 195, 0.7 ],
-         // 検索ボックスの文字色
          "omnibox_text": [ 255, 255, 255 ]
       },
       "images": {
