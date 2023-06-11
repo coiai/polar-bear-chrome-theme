@@ -1,0 +1,40 @@
+{
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "images/icon.png"
+   },
+   "manifest_version": 3,
+   "name": "__MSG_name__",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 255, 255, 255 ],
+         "button_background": [ 0, 0, 0 ],
+         "frame": [ 111, 173, 192 ],
+         "ntp_background": [ 255, 255, 255 ],
+         "ntp_text": [ 255, 255, 255 ],
+         "tab_background_text": [ 255, 255, 255 ],
+         "tab_text": [ 255, 255, 255 ],
+         "toolbar": [ 255, 255, 255, 0.5 ],
+         "toolbar_button_icon": [ 240, 240, 240 ],
+         // 検索ボックスの背景色
+         "omnibox_background": [ 119, 179, 195, 0.7 ],
+         // 検索ボックスの文字色
+         "omnibox_text": [ 255, 255, 255 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_ntp_attribution": "images/theme_ntp_attribution.png",
+         "theme_ntp_background": "images/theme_ntp_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "bottom",
+         "ntp_background_repeat": "no-repeat"
+      },
+      "tints": {
+         "buttons": [ 0, 0, 1 ]
+      }
+   },
+   "version": "1"
+}
